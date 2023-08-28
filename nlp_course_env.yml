@@ -1,0 +1,16 @@
+name: nlp_course
+channels:
+  - defaults
+dependencies:
+  - pip
+  - spacy
+  - numpy
+  - keras
+  - matplotlib
+  - pandas
+  - nltk
+  - scikit-learn
+  - jupyter=1.0.0
+
+prefix: C:\Users\Marcial\Anaconda3\envs\nlp_course
+
